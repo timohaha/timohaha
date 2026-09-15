@@ -40,6 +40,18 @@ To enable trustworthy collaboration that connects distributed data and turns sha
 
 以可信协作连接分散的数据，让知识共享推动群体智能的发展。
 
+## Open Science | 开源共享
+
+We are committed to open and reproducible research. **All code and datasets associated with our team's papers will be released openly**, supporting reproducibility, knowledge sharing, and further research.
+
+我们坚持开放、可复现的科研理念。**团队所有论文的配套代码与数据集均会开源**，支持研究复现、知识共享与后续研究。
+
+## Join Us | 研究生招生
+
+**FedOceanLab recruits graduate students every year.** We welcome motivated students interested in federated learning, trustworthy data circulation, and privacy-preserving collaboration to join us and explore these research directions together.
+
+**FedOceanLab 每年招收研究生**，欢迎对联邦学习、数据可信流转、隐私保护协作等方向感兴趣的同学加入，与我们共同探索、开展研究。
+
 ## Connect & Collaborate | 交流合作
 
 We welcome discussions and collaboration with researchers, students, and practitioners interested in federated learning and trustworthy data circulation. Feel free to explore our repositories and start a discussion through the relevant project's Issues.
