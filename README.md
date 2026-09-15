@@ -57,3 +57,9 @@ We are committed to open and reproducible research. **All code and datasets asso
 We welcome discussions and collaboration with researchers, students, and practitioners interested in federated learning and trustworthy data circulation. Feel free to explore our repositories and start a discussion through the relevant project's Issues.
 
 欢迎对联邦学习、数据可信流转及相关领域感兴趣的研究者、同学与开发者交流合作。欢迎浏览我们的项目，并通过相关仓库的 Issues 与我们交流。
+
+**Team Lead Email | 团队负责人邮箱：** [zhouyizhi@dlou.edu.cn](mailto:zhouyizhi@dlou.edu.cn)
+
+For research collaboration and graduate recruitment inquiries, please contact our team lead by email.
+
+科研合作与研究生招生咨询，欢迎通过上述邮箱联系团队负责人。
